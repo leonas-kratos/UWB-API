@@ -75,7 +75,7 @@ Linear model per anchor: $d' = m \cdot d + c$, fitted over 1.2–5.4 m (step 0.6
 
 ### Ranging RMSE Before vs. After Calibration
 
-![RMSE Calibration](Images/RMSE_cali.png)
+![RMSE Calibration](Images/Linear_cali.png)
 
 Before calibration RMSE is ~125–185 mm with high variance across distances. After calibration it drops to ~25–50 mm and stabilizes significantly.
 
